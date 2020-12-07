@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  point: 1
+  total: MyString
+  kihon: MyString
+  af: MyString
+  gp: MyString
+  qz: MyString
+  date: 2020-12-07
+  user: one
+
+two:
+  point: 1
+  total: MyString
+  kihon: MyString
+  af: MyString
+  gp: MyString
+  qz: MyString
+  date: 2020-12-07
+  user: two
